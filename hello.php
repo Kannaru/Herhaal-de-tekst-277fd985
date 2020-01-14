@@ -1,8 +1,4 @@
 <?php
-    $var = 'hello world';
-    echo $var;
-    echo $var;
-    echo $var;
-    echo $var;
-    echo $var;
+    $var = 'hello world ';
+    echo str_repeat ($var, 5);
     ?>
